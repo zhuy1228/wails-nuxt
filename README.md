@@ -2,10 +2,7 @@
 
 ## About
 
-This is the official Wails Vue template.
-
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+wails-nuxt is a template project that seamlessly integrates Wails (Go + Web desktop framework) with Nuxt 3 (Vue 3 full-stack framework).
 
 ## Live Development
 
